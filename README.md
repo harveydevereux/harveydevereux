@@ -1,5 +1,7 @@
 ### [On Gitlab since Feb 2023](https://gitlab.com/apw951)
 
+But [AlphaShapes.jl](https://github.com/harveydevereux/AlphaShapes.jl), part of the [Julia general package registry](https://github.com/JuliaRegistries/General), and [Consensus](https://github.com/harveydevereux/Consensus) may interest you!
+
 ## Harvey Devereux
 
 ### Working on... 
