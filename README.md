@@ -10,19 +10,13 @@ But [AlphaShapes.jl](https://github.com/harveydevereux/AlphaShapes.jl), part of 
 
 I'm also developing [Active Matter simulations in DL_POLY](https://gitlab.com/apw951/dl_poly_active)
 
-### Languages
+### Top Languages
 
-- Daily (5+ years): C++, Julia, Python
-- Daily (<5 years): Fortran
-- Infrequent but competent: JS, C, Kotlin
-- Learning: Rust
+- C++, Fortran, Rust, shell (bash), Python, Julia, Kotlin, Lua, Javascript (+html/css), C
 
-### Frameworks, Packages, APIs, build systems, etc.
+### Frameworks, APIs, build systems, tools, misc-systems, etc.
 
-- Daily (5+ years) MPI, CMake
-- Frequent (<5 years) OpenGL, Android, Android Jetpack Compose
-- Infrequent but competent: CUDA
-
+- MPI, CMake, HPC Schedulers (SLURM/UGE), OpenGL, Vulkan, Android (Jetpack Compose, Kotlin, C++ NDK), CUDA (C++, Fortran), OpenAcc, GCloud, AWS (lambda mostly), git, github/gitlab
 
 ### Research (talks/ Posters/ Papers/ Etc.)
 
@@ -43,6 +37,7 @@ and low density phases, Devereux HL (Presenting), Twomey CR, Turner MS, Thutupal
 - DARS-SWARM 2021 (June 1st - 4th) (b) Bottom-up models of swarming and the entropy of visual states, Devereux HL (Presenting), Turner MS.
 
 #### Papers
+- Withington, M., **Devereux, H.L.**, Cockrell, C., Elena, A.M., Todorov, I.T., Liu, Z.K., Shang, S.L., McCloy, J.S., Bingham, P.A. and Trachenko, K., 2024. Viscosity bounds in liquids with different structure and bonding types. Physical Review B, 109(9), p.094205. https://doi.org/10.1103/PhysRevB.109. (Open Access)
 
 - **Devereux, HL**. and Turner, MS., 2023. Environmental path-entropy and collective motion. Physical Review Letters, 130(16), p.168201. https://doi.org/10.1103/PhysRevLett.130.168201 (Open Access)
 
