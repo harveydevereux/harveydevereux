@@ -28,8 +28,8 @@
 
 <details><summary>Posters</summary>
 <ul>
-<li>[CCP5 AGM September 4-6th, 2024](https://gitlab.com/apw951/apw951/-/blob/main/2024/CCP5-AGM-24.pdf)</li>
-<li>[CCP5 AGM September 11-13th 2023](https://gitlab.com/apw951/apw951/-/blob/main/2023/CCP5-AGM/poster.pdf?ref_type=heads)</li>
+<li><a href="https://gitlab.com/apw951/apw951/-/blob/main/2024/CCP5-AGM-24.pdf">CCP5 AGM September 4-6th, 2024</a></li>
+<li><a href="https://gitlab.com/apw951/apw951/-/blob/main/2023/CCP5-AGM/poster.pdf?ref_type=heads">CCP5 AGM September 11-13th 2023</a></li>
 </ul>
 </details>
 
@@ -42,11 +42,11 @@
 
 <details><summary>Talks</summary>
 <ul>
-<li>[CoSeC Annual Conference 4th December 2024 - Slides](https://gitlab.com/apw951/apw951/-/blob/main/2024/CoSeC2024.pdf)
+<li><a href="https://gitlab.com/apw951/apw951/-/blob/main/2024/CoSeC2024.pdf">CoSeC Annual Conference 4th December 2024 - Slides</a>
 </li>
-<li>[CoSeC Annual Conference 6th December 2023 - Slides](https://gitlab.com/apw951/apw951/-/blob/main/2023/CoSeC-Conference/HLD.pdf)</li>
-<li>[An updated version of the 6th December 2023 slides, QM CCMP Seminar 12th November 2024](https://gitlab.com/apw951/apw951/-/blob/main/2024/QMseminar24.pdf)</li>
-<li>[CCP5 AGM September 11-13th 2023 - Slides](https://gitlab.com/apw951/apw951/-/blob/main/2023/CCP5-AGM/slides.pdf?ref_type=heads)</li>
+<li><a href="https://gitlab.com/apw951/apw951/-/blob/main/2023/CoSeC-Conference/HLD.pdf">CoSeC Annual Conference 6th December 2023 - Slides</a></li>
+<li><a href="https://gitlab.com/apw951/apw951/-/blob/main/2024/QMseminar24.pdf">An updated version of the 6th December 2023 slides, QM CCMP Seminar 12th November 2024</a></li>
+<li><a href="https://gitlab.com/apw951/apw951/-/blob/main/2023/CCP5-AGM/slides.pdf?ref_type=heads">CCP5 AGM September 11-13th 2023 - Slides</a></li>
 <li>DARS-SWARM 2021 (June 1st - 4th)
 (a) Corralled Active Brownian Particles: Whirligig Beetles show a density dependent speed with MIPS-like, co-existing high
 and low density phases, Devereux HL (Presenting), Twomey CR, Turner MS, Thutupalli S.</li>
