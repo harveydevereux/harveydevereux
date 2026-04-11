@@ -63,7 +63,7 @@ and low density phases, Devereux HL (Presenting), Twomey CR, Turner MS, Thutupal
 </details>
 
 #### Papers
-- **Devereux, H.L.**, Cockrell, C., Elena, A.M., Bush, I., Chalk, A.B., Madge, J., Scivetti, I., Wilkins, J.S., Todorov, I.T., Smith, W. and Trachenko, K., 2026. DL_POLY 5: Calculation of system properties on the fly for very large systems via massive parallelism. Computer Physics Communications, p.110128. (Open Access)
+- **Devereux, H.L.**, Cockrell, C., Elena, A.M., Bush, I., Chalk, A.B., Madge, J., Scivetti, I., Wilkins, J.S., Todorov, I.T., Smith, W. and Trachenko, K., 2026. DL_POLY 5: Calculation of system properties on the fly for very large systems via massive parallelism. Computer Physics Communications, p.110128. (Open Access), doi: https://doi.org/10.1016/j.cpc.2026.110128
 
 - Cockrell, C., Withington, M.A., **Devereux, H**., Elena, A., Todorov, I., Liu, Z.K., Shang, S., McCloy, J., Bingham, P. and Trachenko, K., 2024. Thermodynamics and transport in molten chloride salts and their mixtures. Physical Chemistry Chemical Physics. arXiv post-print: https://arxiv.org/abs/2501.01971v1, doi: https://doi.org/10.1039/D4CP04180A
 
