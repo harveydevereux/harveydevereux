@@ -1,11 +1,14 @@
 ### Hi, I'm Harvey
 
-I work on various projects in the computational materials science ecosystem, and a variety of hobby automation projects.
+I did a PhD student, then a Post-doc. I like to build neat applications and automations.
+
+I work on various projects in the computational materials science ecosystem, and loads of small and large hobby automation projects.
 
 [I am also on Gitlab](https://gitlab.com/apw951)
 
-<details><summary>Some fun things you might like</summary>
+Some fun things you might like
 <ul>
+<li><a href="https://devereux.io/particles">Particles - an interactive particles simulation for Android, on Google Play</a></li>  
 <li><a href="https://gitlab.com/apw951/fortran-conway-opengl">Game of Life in Fortran with OpenGL</a> and a <a href="https://github.com/harveydevereux/FortranOpenGL">Skeleton for OpenGL in Fortran</a></li>
 <li><a href="https://github.com/harveydevereux/feed-rs">feed-rs - get Discord notifications of some nice news sources</a></li>
 <li><a href="https://github.com/harveydevereux/smetrics-rs">smetrics-rs - simple analytics for Bluesky and Tumblr</a></li>
@@ -15,7 +18,6 @@ I work on various projects in the computational materials science ecosystem, and
 <li><a href="https://gitlab.com/apw951/lif-viscosity-data">LiF molten salt experimental viscosity data</a></li>
 <li><a href="https://gitlab.com/apw951/cuda-fortran-examples">OpenAcc and NVFortran Fortran GPU examples</a></li>
 </ul>
-</details>
 
 ### Materials science 
 
