@@ -1,21 +1,27 @@
-### [Mainly On Gitlab since Feb 2023](https://gitlab.com/apw951)
+### Hi, I'm Harvey
 
-## Harvey Devereux
+I work on various projects in the computational materials science ecosystem, and a variety of hobby automation projects.
 
-### Working on... 
+[I am also on Gitlab](https://gitlab.com/apw951)
 
-- [DL_POLY](https://gitlab.com/ccp5/dl-poly) (Classical Molecular Dynamics) and its Python meta package [dlpoly-py](https://gitlab.com/drFaustroll/dlpoly-py), on a Postdoc at Queen Mary University of London. Including DL_POLY [tools](https://gitlab.com/apw951/dl_poly_tools) and [workflows](https://gitlab.com/apw951/dl_poly_workflows).
-- GPU acceleration in DL_POLY
-
-<details><summary>Some things you might like</summary>
+<details><summary>Some fun things you might like</summary>
 <ul>
-<li><a href="https://gitlab.com/apw951/fortran-conway-opengl">Game of Life in Fortran with OpenGL</a></li>
+<li><a href="https://gitlab.com/apw951/fortran-conway-opengl">Game of Life in Fortran with OpenGL</a> and a <a href="https://github.com/harveydevereux/FortranOpenGL">Skeleton for OpenGL in Fortran</a></li>
+<li><a href="https://github.com/harveydevereux/feed-rs">feed-rs - get Discord notifications of some nice news sources</a></li>
+<li><a href="https://github.com/harveydevereux/smetrics-rs">smetrics-rs - simple analytics for Bluesky and Tumblr</a></li>
+<li><a href="https://gitlab.com/apw951/dl_poly_structure_library">dl_poly_structure_library - various scalable DL_POLY input files</a></li>
 <li><a href="https://gitlab.com/apw951/molten-salts-bhm-params">BHM potential parameters for 20 molten salts.</a></li>
 <li><a href="https://gitlab.com/apw951/saru-test-vectors">SARU test vectors</a></li>
 <li><a href="https://gitlab.com/apw951/lif-viscosity-data">LiF molten salt experimental viscosity data</a></li>
 <li><a href="https://gitlab.com/apw951/cuda-fortran-examples">OpenAcc and NVFortran Fortran GPU examples</a></li>
 </ul>
 </details>
+
+### Materials science 
+
+- Since 2023, I've mainly worked on [DL_POLY](https://gitlab.com/ccp5/dl-poly) (Classical Molecular Dynamics) and its Python meta package [dlpoly-py](https://gitlab.com/drFaustroll/dlpoly-py), on a Postdoc at Queen Mary University of London. Including DL_POLY [tools](https://gitlab.com/apw951/dl_poly_tools) and [workflows](https://gitlab.com/apw951/dl_poly_workflows).
+- I also contribute to [janus_core](https://github.com/stfc/janus-core) - a Python/CLI toolbox for machine-learned interatomic potentials. 
+
 
 <details><summary>Languages and frameworks I use</summary>
 <ul>
@@ -55,6 +61,7 @@ and low density phases, Devereux HL (Presenting), Twomey CR, Turner MS, Thutupal
 </details>
 
 #### Papers
+- **Devereux, H.L.**, Cockrell, C., Elena, A.M., Bush, I., Chalk, A.B., Madge, J., Scivetti, I., Wilkins, J.S., Todorov, I.T., Smith, W. and Trachenko, K., 2026. DL_POLY 5: Calculation of system properties on the fly for very large systems via massive parallelism. Computer Physics Communications, p.110128. (Open Access)
 
 - Cockrell, C., Withington, M.A., **Devereux, H**., Elena, A., Todorov, I., Liu, Z.K., Shang, S., McCloy, J., Bingham, P. and Trachenko, K., 2024. Thermodynamics and transport in molten chloride salts and their mixtures. Physical Chemistry Chemical Physics. arXiv post-print: https://arxiv.org/abs/2501.01971v1, doi: https://doi.org/10.1039/D4CP04180A
 
