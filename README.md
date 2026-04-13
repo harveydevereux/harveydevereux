@@ -2,6 +2,8 @@
 
 I did a PhD student, then a Post-doc. I like to build neat applications and automations.
 
+I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
+
 I work on various projects in the computational materials science ecosystem, and loads of small and large hobby automation projects.
 
 [I am also on Gitlab](https://gitlab.com/apw951)
