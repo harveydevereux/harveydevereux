@@ -9,17 +9,17 @@ I work on various projects in the computational materials science ecosystem, and
 [I am also on Gitlab](https://gitlab.com/apw951)
 
 Some fun things you might like
-<ul>
-<li><a href="https://devereux.io/particles">Particles - an interactive particles simulation for Android, on Google Play</a></li>  
-<li><a href="https://gitlab.com/apw951/fortran-conway-opengl">Game of Life in Fortran with OpenGL</a> and a <a href="https://github.com/harveydevereux/FortranOpenGL">Skeleton for OpenGL in Fortran</a></li>
-<li><a href="https://github.com/harveydevereux/feed-rs">feed-rs - get Discord notifications of some nice news sources</a></li>
-<li><a href="https://github.com/harveydevereux/smetrics-rs">smetrics-rs - simple analytics for Bluesky and Tumblr</a></li>
-<li><a href="https://gitlab.com/apw951/dl_poly_structure_library">dl_poly_structure_library - various scalable DL_POLY input files</a></li>
-<li><a href="https://gitlab.com/apw951/molten-salts-bhm-params">BHM potential parameters for 20 molten salts.</a></li>
-<li><a href="https://gitlab.com/apw951/saru-test-vectors">SARU test vectors</a></li>
-<li><a href="https://gitlab.com/apw951/lif-viscosity-data">LiF molten salt experimental viscosity data</a></li>
-<li><a href="https://gitlab.com/apw951/cuda-fortran-examples">OpenAcc and NVFortran Fortran GPU examples</a></li>
-</ul>
+- Personal projects
+  - [Particles - an interactive particles simulation for Android, on Google Play](https://devereux.io/particles)
+  - [Game of Life in Fortran with OpenGL](https://gitlab.com/apw951/fortran-conway-opengl) and a [Skeleton for OpenGL in Fortran](https://github.com/harveydevereux/FortranOpenGL)
+  - [feed-rs - get Discord notifications of some nice news sources](https://github.com/harveydevereux/feed-rs)
+  - [smetrics-rs - simple analytics for Bluesky, Tumblr, and Instagram](https://github.com/harveydevereux/smetrics-rs)
+- Research stuff
+  - [dl_poly_structure_library - various scalable DL_POLY input files](https://gitlab.com/apw951/dl_poly_structure_library)
+  - [BHM potential parameters for 20 molten salts.](https://gitlab.com/apw951/molten-salts-bhm-params)
+  - [SARU test vectors](https://gitlab.com/apw951/saru-test-vectors)
+  - [LiF molten salt experimental viscosity data](https://gitlab.com/apw951/lif-viscosity-data)
+  - [OpenAcc and NVFortran Fortran GPU examples](https://gitlab.com/apw951/cuda-fortran-examples)
 
 ### Materials science 
 
