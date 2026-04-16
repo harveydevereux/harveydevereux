@@ -1,6 +1,6 @@
 ### Hi, I'm Harvey
 
-I did a PhD student, then a Post-doc. I like to build neat applications and automations.
+I did a PhD, then a Post-doc. I like to build neat applications and automations.
 
 I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
 
