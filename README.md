@@ -13,7 +13,7 @@ Some fun things you might like
   - [Particles - an interactive particles simulation for Android, on Google Play](https://devereux.io/particles)
   - [Game of Life in Fortran with OpenGL](https://gitlab.com/apw951/fortran-conway-opengl) and a [Skeleton for OpenGL in Fortran](https://github.com/harveydevereux/FortranOpenGL)
   - [feed-rs - get Discord notifications of some nice news sources](https://github.com/harveydevereux/feed-rs)
-  - [smetrics-rs - simple analytics for Bluesky, Tumblr, and Instagram](https://github.com/harveydevereux/smetrics-rs)
+  - [smetrics-rs - simple metrcis collection for your Bluesky, Tumblr, and Instagram](https://github.com/harveydevereux/smetrics-rs)
 - Research stuff
   - [dl_poly_structure_library - various scalable DL_POLY input files](https://gitlab.com/apw951/dl_poly_structure_library)
   - [BHM potential parameters for 20 molten salts.](https://gitlab.com/apw951/molten-salts-bhm-params)
