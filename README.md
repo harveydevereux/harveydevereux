@@ -1,12 +1,8 @@
 ### Hi, I'm Harvey
 
-I did a PhD, then a Post-doc. I like to build neat applications and automations.
+I did a PhD, then a Post-doc. I like to build neat applications and automations. I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
 
-I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
-
-I work on various projects in the computational materials science ecosystem, and loads of small and large hobby automation projects.
-
-[I am also on Gitlab](https://gitlab.com/apw951)
+I am currently looking for my next role, checkout my [CV here](https://devereux.io/cv)
 
 Some fun things you might like
 - Personal projects
@@ -20,6 +16,10 @@ Some fun things you might like
   - [SARU test vectors](https://gitlab.com/apw951/saru-test-vectors)
   - [LiF molten salt experimental viscosity data](https://gitlab.com/apw951/lif-viscosity-data)
   - [OpenAcc and NVFortran Fortran GPU examples](https://gitlab.com/apw951/cuda-fortran-examples)
+
+I work on various projects in the computational materials science ecosystem, and loads of small and large hobby automation projects.
+
+[I am also on Gitlab](https://gitlab.com/apw951)
 
 ### Materials science 
 
