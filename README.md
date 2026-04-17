@@ -2,7 +2,7 @@
 
 I did a PhD, then a Post-doc. I like to build neat applications and automations. I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
 
-I am currently looking for my next role, checkout my [CV here](https://devereux.io/cv)
+I am currently looking for my next role, checkout my [CV here](https://devereux.io/cv).
 
 Some fun things you might like
 - Personal projects
