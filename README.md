@@ -1,8 +1,8 @@
 ### Hi, I'm Harvey
 
-I did a PhD, then a Post-doc. I like to build neat applications and automations. I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
+I did a PhD, then a Post-doc, now I work at the Alan Turing Institute. Throughout I have been a research software engineer at heart.
 
-I am currently looking for my next role, checkout my [CV here](https://devereux.io/cv).
+I like to build neat applications and automations. I love Rust, but mainly work in Fortran (I know), Python, and C++ professionally.
 
 Some fun things you might like
 - Personal projects
